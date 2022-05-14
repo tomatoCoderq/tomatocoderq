@@ -1,4 +1,4 @@
-## <img src="https://www.canva.com/design/DAFArXGZOf4/nomjpmmXvlYw5MX-r7mfZQ/edit?utm_content=DAFArXGZOf4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> 
+## <img src="https://www.canva.com/design/DAFArXGZOf4/view"> 
 
 Hi there, I'm [Khasan](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
 
