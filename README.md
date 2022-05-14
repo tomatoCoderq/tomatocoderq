@@ -1,1 +1,1 @@
-<img src="https://www.canva.com/design/DAFArXGZOf4/view" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<img src="https://raw.githubusercontent.com/tomatoCoderq/tomatoCoderq/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
