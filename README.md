@@ -1,4 +1,9 @@
-### Hi there 👋
+### # Hi there, I'm [Khasan](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+
+Yo! I'm [Khasan](https://daniilshat.ru/) 
+
+python & java developer 
+
 
 <!--
 **tomatoCoderq/tomatocoderq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
