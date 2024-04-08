@@ -17,7 +17,7 @@
 ### About me: 
 
 - 📍 I’m From Russia (Kazan)
-- 📕 A student
+- 📕 Student
 - 💻 Potential Software Engineer
 - 📃 Big Data, Data Science, Machine learning, Robotics
 
